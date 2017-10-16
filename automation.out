@@ -1,0 +1,42 @@
+2017-09-30 22:50:52 INFO  Geniric_Methods:23 - crome browser is launching
+2017-09-30 22:51:02 INFO  Geniric_Methods:32 - navigating to Url
+2017-09-30 22:51:06 INFO  SignInAccount:25 - login account
+2017-10-01 08:09:23 INFO  Geniric_Methods:23 - crome browser is launching
+2017-10-01 08:09:33 INFO  Geniric_Methods:32 - navigating to Url
+2017-10-01 08:09:38 INFO  SignInAccount:26 - login account
+2017-10-01 08:10:41 INFO  Geniric_Methods:23 - crome browser is launching
+2017-10-01 08:10:53 INFO  Geniric_Methods:32 - navigating to Url
+2017-10-01 08:10:56 INFO  SignInAccount:26 - login account
+2017-10-01 08:10:56 INFO  SignInAccount:32 - Assertion validating page header
+2017-10-01 08:43:36 INFO  Geniric_Methods:31 - crome browser is launching
+2017-10-01 08:43:42 INFO  Geniric_Methods:40 - navigating to Url
+2017-10-01 08:43:44 INFO  SignInAccount:26 - login account
+2017-10-01 08:43:44 INFO  SignInAccount:32 - Assertion validating page header
+2017-10-01 10:13:05 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-01 10:13:11 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-01 10:13:15 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-01 10:13:15 INFO  SignInAccount:33 - login account
+2017-10-01 10:13:16 INFO  SignInAccount:39 - Assertion validating page header
+2017-10-01 10:13:52 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-01 10:13:58 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-01 10:14:02 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-01 10:14:30 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-01 10:14:34 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-02 19:10:07 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-02 19:10:12 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-02 19:10:59 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-02 19:11:04 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-02 19:12:03 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-02 19:12:18 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-02 19:12:26 INFO  SignInAccountTest:33 - login account
+2017-10-02 19:12:26 INFO  SignInAccountTest:39 - Assertion validating page header
+2017-10-02 19:31:34 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-02 19:31:47 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-02 19:31:51 INFO  SignInAccountTest:33 - login account
+2017-10-02 19:31:51 INFO  SignInAccountTest:39 - Assertion validating page header
+2017-10-03 11:05:29 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-03 11:05:43 INFO  Geniric_Methods:35 - navigating to Url
+2017-10-03 11:05:47 INFO  SignInAccountTest:33 - login account
+2017-10-03 11:05:47 INFO  SignInAccountTest:39 - Assertion validating page header
+2017-10-03 11:27:16 INFO  Geniric_Methods:26 - crome browser is launching
+2017-10-03 11:27:30 INFO  Geniric_Methods:35 - navigating to Url

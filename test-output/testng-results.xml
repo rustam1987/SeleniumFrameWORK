@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DemoSuite" duration-ms="25016" started-at="2017-10-03T19:25:44Z" finished-at="2017-10-03T19:26:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25016" started-at="2017-10-03T19:25:44Z" finished-at="2017-10-03T19:26:09Z">
+      <class name="TestCases.SignInAccountTest">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:TestCases.SignInAccountTest@3419866c]" name="setBrowser" is-config="true" duration-ms="19325" started-at="2017-10-03T15:25:44Z" finished-at="2017-10-03T15:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="searchItem()[pri:1, instance:TestCases.SignInAccountTest@3419866c]" name="searchItem" duration-ms="3827" started-at="2017-10-03T15:26:03Z" finished-at="2017-10-03T15:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="validateHeaderText()[pri:2, instance:TestCases.SignInAccountTest@3419866c]" name="validateHeaderText" duration-ms="91" started-at="2017-10-03T15:26:07Z" finished-at="2017-10-03T15:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeaderText -->
+        <test-method status="PASS" signature="loginInvalidData()[pri:3, instance:TestCases.SignInAccountTest@3419866c]" name="loginInvalidData" duration-ms="1761" started-at="2017-10-03T15:26:07Z" finished-at="2017-10-03T15:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInvalidData -->
+      </class> <!-- TestCases.SignInAccountTest -->
+    </test> <!-- Test -->
+  </suite> <!-- DemoSuite -->
+</testng-results>
